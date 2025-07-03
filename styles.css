@@ -45,6 +45,8 @@ body {
     text-decoration: none;
     margin: 0 15px;
     font-size: 18px;
+  transition: all 0.3s ease;
+
 }
 
 .header .navbar a:hover {
@@ -77,6 +79,8 @@ body {
     font-size: 18px;
     border-radius: 5px;
     margin-top: 20px;
+  transition: all 0.3s ease;
+
 }
 
 .hero .btn:hover {
@@ -143,6 +147,8 @@ body {
     padding: 20px;
     border-radius: 10px;
     width: 30%;
+  transition: all 0.3s ease;
+
 }
 
 .service-cards .card h3 {
@@ -175,6 +181,8 @@ body {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+  transition: all 0.3s ease;
+
 }
 
 footer {
