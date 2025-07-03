@@ -210,11 +210,11 @@ footer {
 
 @media (max-width: 768px) {
   .header .container {
-    flex-direction: column;
+    flex-direction: column; /* stack header for small screens */
   }
 
   .header .navbar {
-    margin-top: 0.625rem; /* 10px */
+    margin-top: 0.625rem; /* spacing under nav links */
   }
 
   .header .navbar a {
@@ -224,13 +224,13 @@ footer {
   }
 
   .about-content {
-    flex-direction: column;
+    flex-direction: column;/* stack about section blocks */
     text-align: center;
   }
 
   .about-text,
   .about-features {
-    width: 100%;
+    width: 100%;/* full width for small devices */
   }
 }
 
