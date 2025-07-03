@@ -201,6 +201,11 @@ footer {
     .header .navbar {
         margin-top: 10px;
     }
+  .header .navbar a {
+  display: block;
+  margin: 10px 0;
+  text-align: center;
+}
 
     .about-content {
         flex-direction: column;
@@ -210,8 +215,8 @@ footer {
     .about-text, .about-features {
         width: 100%;
     }
+}
 
-    .about
   .service-cards .card:hover {
   transform: scale(1.05);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
