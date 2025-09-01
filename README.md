@@ -6,7 +6,7 @@ Features:
 
 Home Page: Display a list of featured restaurants.
 
-Restaurant Page: Show details of a specific restaurant, including menu items.g3ey32yu
+Restaurant Page: Show details of a specific restaurant, including menu items.
 
 Search Functionality: Search for restaurants by name or cuisine.
 
